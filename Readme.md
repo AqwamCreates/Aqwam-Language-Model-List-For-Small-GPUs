@@ -2,7 +2,7 @@
 
 * Note: Speeds are approximate averages based on: 
 
-  * RTX 4050 6GB + DDR5 RAM
+  * RTX 4050 6GB VRAM + DDR5 16 GB RAM
 
   * Q4_0 K/V cache
 
