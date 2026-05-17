@@ -8,7 +8,7 @@
 
 * Average adult human has a reading speed of 3.67 - 5.83 words per second. A word consists of 1-3 tokens. Hence, the token generation speed must be at least 9 tokens per second for comfortable reading.
 
-## Best Model Configuration
+## Best Model Configuration List
 
 | Model           | Quant   | Context Size | Ingestion Speed (Read) | Generation Speed (Write) | Best Use Case           | Model Details                                                                                   | Vision Capabilities Details                                                                         |
 |-----------------|---------|--------------|------------------------|--------------------------|-------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -19,7 +19,7 @@
 | Ministral 3 14B | IQ2_M   | 131072       | ~60–100 t/s            | ~7–8 t/s                 | Cinematic Storytelling  | Deepest emotional depth.                                                                        | Not applicable.                                                                                     |
 | MiniCPM-V 4.6   | Q4_K_M  | 131072       | ~300+ t/s              | ~35–45 t/s               | Visual Analysis         | The undisputed king of images. Reads screenshots instantly. Too small for long-term story arcs. | Not applicable.                                                                                     |
 
-## Considerable Model Configuration
+## Considerable Model Configuration List
 
 | Model           | Quant   | Context Size | Ingestion Speed (Read) | Generation Speed (Write) | Model Details                                                                                                                                        | Vision Capabilities Details                                            |
 |-----------------|---------|--------------|------------------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
