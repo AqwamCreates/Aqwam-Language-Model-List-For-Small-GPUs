@@ -19,7 +19,7 @@
 | Ministral 3 14B | IQ2_M   | 131072       | ~60–100 t/s            | ~7–8 t/s                 | Cinematic Storytelling  | Deepest emotional depth.                                                                        | Not applicable.                                                                                     |
 | MiniCPM-V 4.6   | Q4_K_M  | 131072       | ~300+ t/s              | ~35–45 t/s               | Visual Analysis         | The undisputed king of images. Reads screenshots instantly. Too small for long-term story arcs. | Not applicable.                                                                                     |
 
-## Considerable Model Configuraion
+## Considerable Model Configuration
 
 | Model           | Quant   | Context Size | Ingestion Speed (Read) | Generation Speed (Write) | Model Details                                                                                                                                        | Vision Capabilities Details                                            |
 |-----------------|---------|--------------|------------------------|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
