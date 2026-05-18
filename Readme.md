@@ -4,7 +4,7 @@
 
   * RTX 4050 6GB VRAM + DDR5 16 GB RAM
 
-  * Q4_0 K/V cache (No noticeable quality loss)
+  * Q4_0 KV cache (No noticeable quality loss)
 
 * Average adult human has a reading speed of 3.67 - 5.83 words per second. A word consists of 1-3 tokens. Hence, the token generation speed must be at least 9 tokens per second for comfortable reading.
 
